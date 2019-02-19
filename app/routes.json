@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/home/",
+    "component": "home.vue"
+  },
+  {
+    "path": "/audit/",
+    "component": "audit.vue"
+  }
+]
